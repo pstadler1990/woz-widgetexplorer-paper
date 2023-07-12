@@ -1,4 +1,7 @@
-# Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces
+---
+layout: default
+title: Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces
+---
 
 Accompanying web page with additional information and supplements for the Mensch und Computer 2023[^1] short paper: "Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces" by Patrick Stadler[^2] and Vanshika Bawa[^3], German Research Center for Artificial Intelligence (DFKI)[^4]. 2023, Berlin, Germany.
 
@@ -15,8 +18,7 @@ The paper can be found in the ACM Digital Library.
 <p><em>Click the image above to open the paper (ACM Digital Library)</em></p>
 
 ## Wizard Of Oz
-
-TODO
+We use our Wizard of Oz platform as a straightforward way to conduct natural language dialogues with users and potential stakeholders. This also allows for a realistic discussion, in which one person takes the role of the user, while the other person can act out the responses of themselves, or a chatbot, depending on the desired scenario. Usually non-experts, i.e., users, talk to a researcher via the WoZ setup, but it is also imaginable to substitute the researcher for another non-expert, allowing for a true dialog along some prepared tasks. Another advantage of the WoZ approach lies in the fact that the resulting data is already available in digital form and can therefore be easily processed in a next step.
 
 ## WidgetExplorer
 
@@ -29,8 +31,6 @@ TODO
 ## Download Components
 
 TODO
-
-
 
 ## Citation
 
