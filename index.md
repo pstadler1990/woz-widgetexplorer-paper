@@ -45,12 +45,12 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 ## Contact Information
 
 <p>German Research Center for Artificial Intelligence (DFKI), Berlin, Germany.</p>
-<p>Website: [https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin](https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin)</p>
+<p>Website: <a href="https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin" target="_blank">https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin</a></p>
 
 <p>Patrick Stadler (Researcher)</p>
 <p>Vanshika Bawa (Researcher)</p>
 
-<p><b>Mail: `{firstname}.{lastname}@dfki.de`</b></p>
+<p><b>Mail: <code>{firstname}.{lastname}@dfki.de</code></p>
 
 <br style="margin-top: 20px; margin-bottom: 5px;" />
 <hr />
