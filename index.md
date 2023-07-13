@@ -22,7 +22,7 @@ The paper can be found in the ACM Digital Library.
 We use our Wizard of Oz platform as a straightforward way to conduct natural language dialogues with users and potential stakeholders. This also allows for a realistic discussion, in which one person takes the role of the user, while the other person can act out the responses of themselves, or a chatbot, depending on the desired scenario. Usually non-experts, i.e., users, talk to a researcher via the WoZ setup, but it is also imaginable to substitute the researcher for another non-expert, allowing for a true dialog along some prepared tasks. Another advantage of the WoZ approach lies in the fact that the resulting data is already available in digital form and can therefore be easily processed in a next step.
 
 <img src="woz.png" title="Wizard of Oz interface" alt="Paper" width="500">
-<p><em>Screenshot of our Wizard of Oz tool. We use this tool to collect dialog data with actual users of the domain respectively domain.</em></p>
+<p><em>Screenshot of our Wizard of Oz tool. We use this tool to collect dialog data by conversations with actual users of the application respectively from the domain.</em></p>
 
 ## WidgetExplorer
 
@@ -50,10 +50,13 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 <p>Patrick Stadler (Researcher)</p>
 <p>Vanshika Bawa (Researcher)</p>
 
-<p><b>Mail: <pre>{firstname}.{lastname}@dfki.de</pre></p>
+<b>Mail: <pre>{firstname}.{lastname}@dfki.de</pre></b>
+
+## Footnotes
 
 <br style="margin-top: 20px; margin-bottom: 5px;" />
 <hr />
+
 [^1]: [https://muc2023.mensch-und-computer.de/](https://muc2023.mensch-und-computer.de/)
 [^2]: [https://orcid.org/0000-0002-5224-1522](https://orcid.org/0000-0002-5224-1522)
 [^3]: [https://orcid.org/0009-0008-9585-8902](https://orcid.org/0009-0008-9585-8902)
