@@ -45,16 +45,16 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 ## Contact Information
 
 <p>German Research Center for Artificial Intelligence (DFKI), Berlin, Germany.</p>
-<p>Website: https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin/</p>
+<p>Website: [https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin/</p>
 
-<p>Patrick Stadler</p>
-<p>Vanshika Bawa</p>
+<p>Patrick Stadler (Researcher)</p>
+<p>Vanshika Bawa (Researcher)</p>
 
-<p>Mail: `{firstname}.{lastname}@dfki.de`</p>
+<p><b>Mail: `{firstname}.{lastname}@dfki.de`</b></p>
 
-<br style="margin-top: 20px; margin-bottom: 5px;"/>
+<br style="margin-top: 20px; margin-bottom: 5px;" />
 <hr />
-[^1]: https://muc2023.mensch-und-computer.de/
-[^2]: https://orcid.org/0000-0002-5224-1522
-[^3]: https://orcid.org/0009-0008-9585-8902
-[^4]: https://www.dfki.de/en/web/research/research-departments/cognitive-assistants
+[^1]: [https://muc2023.mensch-und-computer.de/](https://muc2023.mensch-und-computer.de/)
+[^2]: [https://orcid.org/0000-0002-5224-1522](https://orcid.org/0000-0002-5224-1522)
+[^3]: [https://orcid.org/0009-0008-9585-8902](https://orcid.org/0009-0008-9585-8902)
+[^4]: [https://www.dfki.de/en/web/research/research-departments/cognitive-assistants](https://www.dfki.de/en/web/research/research-departments/cognitive-assistants)
