@@ -50,7 +50,7 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 <p>Patrick Stadler (Researcher)</p>
 <p>Vanshika Bawa (Researcher)</p>
 
-<p><b>Mail: <code>{firstname}.{lastname}@dfki.de</code></p>
+<p><b>Mail: <pre>{firstname}.{lastname}@dfki.de</pre></p>
 
 <br style="margin-top: 20px; margin-bottom: 5px;" />
 <hr />
