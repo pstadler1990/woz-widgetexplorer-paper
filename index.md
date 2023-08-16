@@ -124,10 +124,11 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 ## Contact Information
 
 <center>
-<img src="DFKI_Logo_e_schrift.jpg" alt="DFKI Logo" width="300" />
-<p>German Research Center for Artificial Intelligence (DFKI), Berlin, Germany.</p>
-<p>Website: <a href="https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin" target="_blank">https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin</a></p>
+<img src="DFKI_Logo_e_schrift.jpg" alt="DFKI Logo" width="300" /> <br />
+<p>German Research Center for Artificial Intelligence (DFKI), Berlin, Germany.<br />
+Website: <a href="https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin" target="_blank">https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin</a></p>
 </center>
+
 
 
 <br style="margin-top: 20px; margin-bottom: 5px;" />
@@ -138,5 +139,5 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 [^2]: [https://orcid.org/0000-0002-5224-1522](https://orcid.org/0000-0002-5224-1522)
 [^3]: [https://orcid.org/0009-0008-9585-8902](https://orcid.org/0009-0008-9585-8902)
 [^4]: [https://www.dfki.de/en/web/research/research-departments/cognitive-assistants](https://www.dfki.de/en/web/research/research-departments/cognitive-assistants)
-[^5]: https://adaptivecards.io/designer/
+[^5]: [https://adaptivecards.io/designer/](https://adaptivecards.io/designer/)
 
