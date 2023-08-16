@@ -3,9 +3,6 @@ layout: default
 title: "Fake it and Let Them Make it: Combining WoZ and RP Tools for a Holistic Co-Design of CUIs"
 ---
 
-Accompanying web page with additional information and supplements for the Mensch und Computer 2023[^1] short paper: "Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces" by Patrick Stadler[^2] and Vanshika Bawa[^3], German Research Center for Artificial Intelligence (DFKI)[^4]. 2023, Berlin, Germany.
-
-
 
 <center><h2>Fake it and Let Them Make it</h2></center>
 
@@ -31,11 +28,13 @@ Vanshika Bawa<br />
 </div>
 
 
-
-
-
-
 <div style="clear: both"></div>
+
+
+
+Accompanying web page with additional information and supplements for the Mensch und Computer 2023[^1] short paper: "Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces" by Patrick Stadler[^2] and Vanshika Bawa[^3], German Research Center for Artificial Intelligence (DFKI)[^4]. 2023, Berlin, Germany.
+
+
 
 ## Abstract
 
