@@ -121,13 +121,15 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 
 ## Contact Information
 
+<center>
+<img src="DFKI_Logo_e_schrift.jpg" alt="DFKI Logo" width="300" />
 <p>German Research Center for Artificial Intelligence (DFKI), Berlin, Germany.</p>
 <p>Website: <a href="https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin" target="_blank">https://www.dfki.de/web/ueber-uns/standorte-kontakt/berlin</a></p>
+</center>
 
 
 
 <br style="margin-top: 20px; margin-bottom: 5px;" />
-
 <hr />
 
 [^1]: [https://muc2023.mensch-und-computer.de/](https://muc2023.mensch-und-computer.de/)
