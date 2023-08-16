@@ -31,9 +31,11 @@ Vanshika Bawa<br />
 <div style="clear: both"></div>
 
 
-
+<br />
+<br />
 Accompanying web page with additional information and supplements for the Mensch und Computer 2023[^1] short paper: "Fake it and Let Them Make it: Combining Wizard-of-Oz and Rapid Prototyping Tools for a Holistic Co-Design of Conversational User Interfaces" by Patrick Stadler[^2] and Vanshika Bawa[^3], German Research Center for Artificial Intelligence (DFKI)[^4]. 2023, Berlin, Germany.
 
+<br />
 
 
 ## Abstract
@@ -128,8 +130,8 @@ Patrick Stadler and Vanshika Bawa. 2023. Fake it and Let Them Make it: Combining
 </center>
 
 
-
 <br style="margin-top: 20px; margin-bottom: 5px;" />
+
 <hr />
 
 [^1]: [https://muc2023.mensch-und-computer.de/](https://muc2023.mensch-und-computer.de/)
